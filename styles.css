@@ -1,0 +1,99 @@
+body{
+    background-color: #d6d6d6;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+   color:#404f6e; 
+   font-size: 20px;
+}
+a{
+    font-size: 25px;
+    color:#404f6e; 
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 28px;
+}
+h3{
+    font-size: 25px;
+}
+.divTitleCard{
+    background-color:#d89c11;
+    color:#d6d6d6;
+    padding-top: 20px;
+    padding-bottom: 9px;
+    margin: -8px;
+    margin-bottom: 20px;
+}
+.divInfo{
+    margin:20px;
+    margin-right: 300px;
+    margin-left: 300px;
+    background-color:#8c95a8;
+    padding: 3px;
+}
+.divTranscription{
+    margin:5px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color:#7b8292;
+    padding: 10px;
+}
+.divInfoParts{
+    display: flex;
+}
+.divInfoLeft{
+    margin-right: 10px;
+    background-color:#8c95a8;
+    flex: 1;
+}
+.divInfoRight{
+    margin-left: 10px;
+    margin-bottom: 2000px;
+    background-color:#8c95a8;
+    flex: 1;
+}
+.textColorClear{
+    color:#d6d6d6;
+}
+.titleColorDark{
+    color:#404f6e; 
+}
+.divPartsCell{
+    background-color:#404f6e;
+    margin: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+img{
+    margin: 8px;
+    height: 140px;
+    width: 140px;
+}
+.divPartsCell1{
+    background-color:#404f6e;
+    margin: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.divPartsInfoRight1{
+    background-color:#404f6e;
+    margin: 20px;
+    
+    padding-top: 2px;
+    padding-bottom: 22px;
+}
+.divPartsInfoRight2{
+    background-color:#404f6e;
+    margin: 20px;
+    padding-top: 50px;
+    padding-bottom: 28px;
+}
+.imgQR{
+    height: 450px;
+    width: 450px;
+}
